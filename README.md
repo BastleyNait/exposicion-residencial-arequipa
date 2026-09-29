@@ -2,7 +2,7 @@
 
 Investigación aplicada y definición de producto sobre la **imposibilidad de verificar, antes de pagar, el estado legal‑urbanístico, de servicios y de peligro de una ubicación residencial en Arequipa, Perú.**
 
-Repositorio de trabajo para el curso de Gestión Estratégica de Tecnologías de Información.
+Repositorio de trabajo para el curso de Gestión de Sistemas y Tecnologías de Información.
 
 ---
 
